@@ -2,3 +2,4 @@ Estoy aprendiendo a usar Git
 Ahora quiero validar que funciona
 lo aprendido en git
 Poco a poco entiendo mejor todo lo que pasa
+se supone que cambia en la consola
